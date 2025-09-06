@@ -1,4 +1,6 @@
 # ROS2-project
+## Modular Self-Healing Robot
+
 
 ### Navigation of robot using Nav2
 1. Creating a map using SLAM
